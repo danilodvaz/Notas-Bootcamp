@@ -1,0 +1,12 @@
+.container {
+    min-width: 340px;
+    height: 100%;
+    border: 1px black solid;
+    border-radius: 3%;
+    padding: 30px;
+    margin: 20px;
+}
+
+.align {
+    text-align: center;
+}
